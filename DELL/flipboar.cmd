@@ -1,0 +1,1 @@
+dism /online /add-provisionedappxpackage /packagepath:C:\\mda_apps\flipboard\Flipboard.Flipboard_2014.321.2159.1540_neutral_~_3f5azkryzdbc4.appxbundle  /licensepath:C:\\mda_apps\flipboard\Flipboard.Flipboard_3f5azkryzdbc4.xml /CustomDataPath=C:\\mda_apps\flipboard\Dell_PC_Data_File.txt
